@@ -1,7 +1,5 @@
 ## Hi there 안녕하세요!👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my project, where everybody learn English.
 - 🌱 I’m currently learning anything for making web sites.
 - 👯 I’m looking to collaborate on the project.
